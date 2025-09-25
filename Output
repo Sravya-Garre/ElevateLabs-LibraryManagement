@@ -1,0 +1,178 @@
+Output
+
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Add Book
+6. Add User
+7. Show Book Count
+8. Show User Count
+9. Exit
+Enter your choice: 3
+Enter Book ID: 1
+Enter User ID: 101
+Book issued successfully!
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Add Book
+6. Add User
+7. Show Book Count
+8. Show User Count
+9. Exit
+Enter your choice: 5
+Enter Book ID: 103
+Enter Book Title: Servelts
+Enter Author Name: Sravya
+Book added successfully!
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Add Book
+6. Add User
+7. Show Book Count
+8. Show User Count
+9. Exit
+Enter your choice: 6
+Enter User ID: 104
+Enter User Name: reahma
+User added successfully!
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Add Book
+6. Add User
+7. Show Book Count
+8. Show User Count
+9. Exit
+Enter your choice: 7
+Total Books in Library: 4
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Add Book
+6. Add User
+7. Show Book Count
+8. Show User Count
+9. Exit
+Enter your choice: 8
+Total Users in Library: 3
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Add Book
+6. Add User
+7. Show Book Count
+8. Show User Count
+9. Exit
+Enter your choice: 3
+Enter Book ID: 2
+Enter User ID: 103
+Book cannot be issued.
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Add Book
+6. Add User
+7. Show Book Count
+8. Show User Count
+9. Exit
+Enter your choice: 1
+[1] Java Programming by James Gosling (Issued)
+[2] Effective Java by Joshua Bloch (Available)
+[3] Clean Code by Robert C. Martin (Available)
+[103] Servelts by Sravya (Available)
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Add Book
+6. Add User
+7. Show Book Count
+8. Show User Count
+9. Exit
+Enter your choice: 2
+User ID: 101, Name: Sravya, Books issued: 1
+User ID: 102, Name: Savithri, Books issued: 0
+User ID: 104, Name: reahma, Books issued: 0
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Add Book
+6. Add User
+7. Show Book Count
+8. Show User Count
+9. Exit
+Enter your choice: 3
+Enter Book ID: 103
+Enter User ID: 104
+Book issued successfully!
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Add Book
+6. Add User
+7. Show Book Count
+8. Show User Count
+9. Exit
+Enter your choice: 2
+User ID: 101, Name: Sravya, Books issued: 1
+User ID: 102, Name: Savithri, Books issued: 0
+User ID: 104, Name: reahma, Books issued: 1
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Add Book
+6. Add User
+7. Show Book Count
+8. Show User Count
+9. Exit
+Enter your choice: 4
+Enter Book ID: 103
+Enter User ID: 104
+Book returned successfully!
+
+--- Library Menu ---
+1. Show Books
+2. Show Users
+3. Issue Book
+4. Return Book
+5. Add Book
+6. Add User
+7. Show Book Count
+8. Show User Count
+9. Exit
+Enter your choice: 9
+Exiting... Thank you!
